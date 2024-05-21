@@ -1,0 +1,41 @@
+#lblregistor {
+    width: 100%;
+    text-align: center;
+    color: black;
+    font-size: 23px;
+    font-style: italic;
+    font-weight: 700;
+    font-family: monospace;
+    border-radius: 10px;
+}
+#registro {
+    background: #8FA980;
+    width: 260px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 5px;
+    margin-left: calc(50% - 130px);
+}
+.inputtexto {
+    width: 15rem;
+    margin-left: 0.25rem;
+    margin-bottom: 10px;
+    border-radius: 4px;
+    border: 3px double #CAA8FF;
+    padding-left: 3px;
+    font-style: italic;
+    font-family: monospace;
+}
+.label {
+    font-style: italic;
+    font-family: monospace; 
+}
+.btn {
+    font-style: italic;
+    font-family: monospace;
+    margin-bottom: 10px;
+    margin-top: 5px;
+    margin-left: 33%;
+}
+
+
